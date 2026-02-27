@@ -47,4 +47,12 @@ async function populateTable() {
   }
 }
 
+function createTableHeader(data) {
+
+}
+
+function createTableBody(data) {
+
+}
+
 populateTable()
